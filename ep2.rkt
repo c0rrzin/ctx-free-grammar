@@ -1,3 +1,8 @@
+;; EP2 - PCS2046 - 05/04/2015
+;; Prof.: Ricardo Rocha
+;; Nome:  Vinicius Correa
+;; Nusp:  7631553
+
 #lang racket
 
 (require racket/set)
